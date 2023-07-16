@@ -8,7 +8,7 @@
 PRODUCT_NAME = wifi_analyzer
 
 // The application's bundle identifier
-PRODUCT_BUNDLE_IDENTIFIER = io.github.michalisiok.wifiAnalyzer
+PRODUCT_BUNDLE_IDENTIFIER = io.github.michalisioak.wifiAnalyzer
 
 // The copyright displayed in application information
-PRODUCT_COPYRIGHT = Copyright © 2023 io.github.michalisiok. All rights reserved.
+PRODUCT_COPYRIGHT = Copyright © 2023 io.github.michalisioak. All rights reserved.
