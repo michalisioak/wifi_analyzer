@@ -1,4 +1,4 @@
-package com.example.wifi_analyzer
+package io.github.michalisioak.wifi_analyzer
 
 import io.flutter.embedding.android.FlutterActivity
 
